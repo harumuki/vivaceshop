@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
+  "store_id": 1113,
+  "name": "vivaceshop",
+  "domain": "vivaceshop.netlify.app",
+  "short_name": "vivaceshop",
+  "description": "",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "secondary_color": "#343a40",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
