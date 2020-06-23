@@ -6,12 +6,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "contato@vivaceshop.com.br"
       }
     ],
     "phone_wpp": true,
