@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "vivaceshop",
+  "name": "Vivace Shop",
   "short_name": "vivaceshop",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My PWA Shop",
+  "description": "Loja Vivace",
   "background_color": "#ffffff",
   "theme_color": "#222831"
 }
