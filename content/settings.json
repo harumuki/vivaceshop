@@ -1,5 +1,5 @@
 {
-  "domain": "vivaceshop.netlify.app",
+  "domain": "vivaceshop.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/vivace_shop.png",
   "name": "Vivace Shop",
-  "short_name": "vivaceshop",
+  "short_name": "Vivace Shop",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
