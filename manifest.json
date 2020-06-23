@@ -27,7 +27,7 @@
     }
   ],
   "name": "Vivace Shop",
-  "short_name": "vivaceshop",
+  "short_name": "Vivace Shop",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
