@@ -23,10 +23,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "custom-content",
-      "markdown": "Teste"
     }
   ]
 }
