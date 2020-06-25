@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "link": "/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele 3x sem juros"
+    "text": "Parcele 3x sem juros",
+    "link": "/pages/pagamentos"
   },
   "exchange": {
     "show": false,
