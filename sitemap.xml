@@ -230,6 +230,12 @@
     </url>
   
     <url>
+      <loc>https://vivaceshop.com.br/bracelete-unissex</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://vivaceshop.com.br/vivace</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
